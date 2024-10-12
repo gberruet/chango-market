@@ -23,7 +23,6 @@ public class Compra {
     private String medioPago;
 
     private String comentario;
-
     private Boolean estado;
 
     public Integer getIdCompra() {
