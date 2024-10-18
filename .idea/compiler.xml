@@ -7,12 +7,12 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapstruct/mapstruct-processor/1.6.2/68f761eab9d57ea0a3721aaca822cdff5eaaf972/mapstruct-processor-1.6.2.jar" />
         </processorPath>
-        <module name="chango-market.chango-market.main~1" />
+        <module name="chango-market.chango-market.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chango-market.chango-market.main" target="21" />
-      <module name="chango-market.chango-market.test" target="21" />
+      <module name="chango-market.chango-market.main~1" target="21" />
+      <module name="chango-market.chango-market.test~1" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
